@@ -11,6 +11,7 @@
 - Data Cleaning and EDA: Visuals on yearly revenue, top parking offences, major hotspots based on season, holiday, sports match etc. Applying proper datetime from '20160101' to '2016-01-01' and '123' to '01:23'. 
 - Feature Engineering: Classifying parking offences into groups. Scraping data by using Geopy to convert addresses into latitude and longitude.
 - Modeling: Classifying parking offences using KNN, Decision Tree and Random Forest.
+- Advanced Modeling: Classification and predictions of parking offences based on latitude and longitude.  
 
 ### Technical Skills
 - Programming Languages
