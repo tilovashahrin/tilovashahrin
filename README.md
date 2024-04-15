@@ -8,8 +8,8 @@
 - 🌱 I want to utilize the skills I have now and what i'm learning at BrainStation to later become a machine learning engineer. I want to transform incomprehensible datasets into insights, stories and unknown discoveries. With my coding background, I've been able to scrape data and transform them into something feasible for data insights. I currently am working on a machine learning model to predict Toronto's potential parking offences based on its location.
 
 ### Current Project: Toronto Parking Ticket Data (2016-2022) 🚀
-- Data Cleaning and EDA on yearly revenue, top parking offences, major hotspots based on season, holiday, sports match etc. Applying proper datetime from '20160101' to '2016-01-01' and '123' to '01:23'. 
-- Feature Engineering: Classifying parking offences into groups. Using Geopy to convert addresses into latitude and longitude.
+- Data Cleaning and EDA: Visuals on yearly revenue, top parking offences, major hotspots based on season, holiday, sports match etc. Applying proper datetime from '20160101' to '2016-01-01' and '123' to '01:23'. 
+- Feature Engineering: Classifying parking offences into groups. Scraping data by using Geopy to convert addresses into latitude and longitude.
 - Modeling: Classifying parking offences using KNN, Decision Tree and Random Forest.
 
 ### Technical Skills
