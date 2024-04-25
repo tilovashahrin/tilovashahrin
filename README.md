@@ -10,7 +10,7 @@
 ### Current Projects: 
 [MNIST Digit Recognizer - Kaggle Competition](https://github.com/clem21chan/MNIST_Digit_Recognizer)
 - Classifying handwritten digits from the MNIST dataset using various machine learning (ML) models in a team of other data scientists.
-- 
+
 [Toronto Parking Ticket Data (2016-2022)](https://github.com/tilovashahrin/Toronto_ParkingTicket_Capstone) 🚀
 - Data Cleaning and EDA: Visuals on yearly revenue, top parking offences, major hotspots based on season, holiday, sports match etc. Applying proper datetime from '20160101' to '2016-01-01' and '123' to '01:23'. 
 - Feature Engineering: Classifying parking offences into groups. Scraping data by using Geopy to convert addresses into latitude and longitude.
