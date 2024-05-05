@@ -32,5 +32,5 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
 ### Let's Connect!
-- 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/tilovashahrin) or send me an [email](tilova97@gmail.com). I'm always open to new opportunities, collaboration, and discussions about all things data and technology! 
+- 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/tilovashahrin), send me an [email](tilova97@gmail.com), or make a time slot booking with me on my [Google Calendar](https://calendar.app.google/kT8ZoFfJ6ZPV4hZs8). I'm always open to new opportunities, collaboration, and discussions about all things data and technology! 
 
