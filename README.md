@@ -1,4 +1,4 @@
-## Hi there 👋 , my name is Tilova and I am a Data Scientist. 
+## Hi there 👋 , my name is Tilova and I am a Data Engineer/Scientist. 
 
 ### About me
 - 🎓 I am a Computer Science graduate. 
