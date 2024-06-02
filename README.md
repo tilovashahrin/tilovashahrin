@@ -1,9 +1,9 @@
-## Hi there 👋 , my name is Tilova and I am a Data Engineer/Scientist. 
+## Hi there 👋 , I am a Data Engineer/Scientist.
 
 ### About me
 - 🎓 I am a Computer Science graduate. 
 - 📜 I have an AWS Cloud Practitioner Certificate since December 2023.
-- 💻 I've worked as a Software Engineer and implemented agile best practices, designed and developed a full-stack features in React/TypeScript, created an automated database migration in SQL, optimized query performance and escalations in GCP and Kibana for a client base of 4000+.
+- 💻 I've worked as a Software Engineer and designed and developed full-stack features in React/TypeScript, created an automated database migration in SQL, optimized query performance and escalations in GCP and Kibana for a client base of 4000+.
 - 📚 Currently embarking on a journey into data science at BrainStation, delving into data visualization, machine learning, and big data, while mastering tools like Scikit-Learn, TensorFlow and more.
 - 🌱 I want to utilize the skills I have now and what i'm learning at BrainStation to later become a machine learning engineer. I want to transform incomprehensible datasets into insights, stories and unknown discoveries. With my coding background, I've been able to scrape data and transform them into something feasible for data insights. I currently am working on a machine learning model to predict Toronto's potential parking offences based on its location.
 
