@@ -8,11 +8,6 @@
 - 🌱 I want to utilize the skills I have now and what i'm learning at BrainStation to later become a machine learning engineer. I want to transform incomprehensible datasets into insights, stories and unknown discoveries. With my coding background, I've been able to scrape data and transform them into something feasible for data insights. I currently am working on a machine learning model to predict Toronto's potential parking offences based on its location.
 
 ### Current Projects: 
-[MNIST Digit Recognizer - Kaggle Competition](https://github.com/clem21chan/MNIST_Digit_Recognizer)
-- Classifying handwritten digits from the MNIST dataset using various ML models in a team of other data scientists.
-- Ongoing Kaggle competition for classifying handwritten digits from the MNIST dataset (0-9), using various ML models. We focused on a few machine learning (ML) models in an attempt to classify each image to its correct number. Our baseline model is a Logistic Regression, with an accuracy of 91% on the testing data. For our advanced model we used a simple artificial neural network and a Convolutional Neural Network (CNN) that reached 95% test accuracy.
-
-
 [Toronto Parking Ticket Data (2016-2022)](https://github.com/tilovashahrin/Toronto_ParkingTicket_Capstone) 🚀
 - Data Cleaning and EDA: Visuals on yearly revenue, top parking offences, major hotspots based on season, holiday, sports match etc. Applying proper datetime from '20160101' to '2016-01-01' and '123' to '01:23'. 
 - Feature Engineering: Classifying parking offences into groups. Scraping data by using Geopy to convert addresses into latitude and longitude.
