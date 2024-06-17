@@ -5,7 +5,7 @@
 - 📜 I have an AWS Cloud Practitioner Certificate since December 2023.
 - 💻 I've worked as a Software Engineer and designed and developed full-stack features in React/TypeScript, created an automated database migration in SQL, optimized query performance and escalations in GCP and Kibana for a client base of 4000+.
 - 📚 I have contributed to the development and enhancement of **Pandas**, a powerful Python data analysis toolkit, by optimizing performance and fixing bugs, resulting in improved functionality and user experience for the global data science community.
-- 🌱 I want to utilize the skills I have now and what i'm learning at BrainStation to later become a machine learning engineer. I want to transform incomprehensible datasets into insights, stories and unknown discoveries. With my coding background, I've been able to scrape data and transform them into something feasible for data insights. I currently am working on a machine learning model to predict Toronto's potential parking offences based on its location.
+- 😃 I am also Actively looking for a job in Toronto 🇨🇦. Open to relocation. 
 
 ### Current Projects: 
 [Toronto Parking Ticket Data (2016-2022)](https://github.com/tilovashahrin/Toronto_ParkingTicket_Capstone) 🚀
