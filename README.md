@@ -4,7 +4,7 @@
 - 🎓 I am a Computer Science graduate and obtained the Data Science Diploma from BrainStation in April 2024. 
 - 📜 I have an AWS Cloud Practitioner Certificate since December 2023.
 - 💻 I've worked as a Software Engineer and designed and developed full-stack features in React/TypeScript, created an automated database migration in SQL, optimized query performance and escalations in GCP and Kibana for a client base of 4000+.
-- 📚 I have contributed to the development and enhancement of **Pandas**, a powerful Python data analysis toolkit, by optimizing performance and fixing bugs, resulting in improved functionality and user experience for the global data science community.
+- 📚 I have been contributing to the development and enhancement of **Pandas**, a powerful Python data analysis toolkit. I do so by optimizing performance and fixing bugs, and working with the pandas community to provide insights. 
 - 😃 I am also Actively looking for a job in Toronto 🇨🇦. Open to relocation. 
 
 ### Current Projects: 
