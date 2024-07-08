@@ -1,4 +1,4 @@
-## Hi there 👋 , I am a Data Engineer.
+## Hi there 👋 , I am a Big Data Engineer.
 
 ### About me
 - 🎓 I am a Computer Science graduate and obtained the Data Science Diploma from BrainStation in April 2024. 
