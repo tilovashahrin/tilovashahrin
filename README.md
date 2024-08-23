@@ -1,9 +1,9 @@
-## Hi there 👋 , I am a Big Data Engineer.
+## Hi there 👋 , I am a Software Engineer.
 
 ### About me
 - 🎓 I am a Computer Science graduate and obtained the Data Science Diploma from BrainStation in April 2024. 
 - 📜 I have an AWS Cloud Practitioner Certificate since December 2023.
-- 💻 I've worked as a Software Engineer and designed and developed full-stack features in React/TypeScript, created automated database migrations in SQL, optimized query performances and escalations using GCP and Kibana for a client base of 4000+.
+- 💻 Currently working as a Software Engineer at a startup designed to transform business operations.
 - 📚 I have been contributing to the development and enhancement of **Pandas**, a powerful Python data analysis toolkit. I do so by optimizing performance and fixing bugs, and working with the pandas community to provide insights. 
 - 😃 I am also Actively looking for a job in Toronto 🇨🇦. Open to relocation. 
 
@@ -17,7 +17,7 @@
 ### Technical Skills
 - Programming Languages
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - Libaries
 
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
