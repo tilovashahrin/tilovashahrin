@@ -6,13 +6,6 @@
 - 💻 2+ Years of experience as a Software Developer transforming business operations in SaSS companies.
 - 😃 I am also Actively looking for a job in Toronto 🇨🇦. Open to relocation. 
 
-### Current Projects: 
-[Toronto Parking Ticket Data (2016-2022)](https://github.com/tilovashahrin/Toronto_ParkingTicket_Capstone) 🚀
-- Data Cleaning and EDA: Visuals on yearly revenue, top parking offences, major hotspots based on season, holiday, sports match etc. Applying proper datetime from '20160101' to '2016-01-01' and '123' to '01:23'. 
-- Feature Engineering: Classifying parking offences into groups. Scraping data by using Geopy to convert addresses into latitude and longitude.
-- Modeling: Classifying parking offences using KNN, Random Forest then onto Randomized Search.
-- Advanced Modeling: Classification and predictions of parking offences based on latitude and longitude.
-
 ### Technical Skills
 - Programming Languages
 
